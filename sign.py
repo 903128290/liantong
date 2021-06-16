@@ -10,12 +10,12 @@ import base64
 from requests import post
 
 # 此处改为自己的配置 手机号, 密码, appId
-phone = 'xxx'
-password = 'xxx'
-pid = 'xxx'
+phone = '16608048490'
+password = '200083'
+pid = 'b564da7bed0409314d7a2f2f57a22de5'
 # TG配置
-TG_TOKEN = 'xxx'  # TG机器人的TOKEN
-CHAT_ID = 'xxx'  # 推送消息的CHAT_ID
+TG_TOKEN = '1711019705:AAEQ98jaMHSA3XRxr15dic7PajORfyoLlhA'  # TG机器人的TOKEN
+CHAT_ID = '1140304981'  # 推送消息的CHAT_ID
 
 
 class UnicomSign():
