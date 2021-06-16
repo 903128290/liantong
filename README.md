@@ -12,3 +12,4 @@
 * 填写网站glados的cookie即可
 * 推荐定时任务 30 10 * * *  ,即每天10.30签到.
 
+![image](https://user-images.githubusercontent.com/22621145/122183411-cc7fcb00-cebd-11eb-907f-32043dd611fb.png)
